@@ -15,7 +15,7 @@ A hands-on course for ML engineers, researchers, and hobbyists who want to use a
 Each module has two parts:
 
 1. **README.md** — Concepts, architecture, context. Read this first.
-2. **notebook.ipynb** — Hands-on code. Open in Google Colab and run top-to-bottom.
+2. **notebook.ipynb** — Hands-on code. Open in Google Colab and run from top to bottom.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
@@ -100,7 +100,7 @@ One container handles many isolated sessions — each WebSocket connection gets 
 
 ### Single Container Scaling
 
-Before adding containers, maximize a single deployment:
+Before adding containers, maximise a single deployment:
 
 | Variable | Default | Description |
 |----------|---------|-------------|
